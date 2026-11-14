@@ -1,0 +1,6 @@
+# build output and Tableau/Hyper working files
+.build/
+.venv/
+hyperd.log
+*.twbr
+.DS_Store
